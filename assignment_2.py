@@ -17,13 +17,13 @@ You should only need to change two lines of code to fix this problem!
 #%%
 # Code
 
-finished_program = False
-
 # Count to 10 Program
+
+finished_program = False
+i = 0
 
 while finished_program == False:
 
-    i = 0
 
     print(f'Testing i = {i}')
 
